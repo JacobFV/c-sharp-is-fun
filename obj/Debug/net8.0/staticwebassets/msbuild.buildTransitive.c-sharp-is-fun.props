@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/c-sharp-is-fun.props" />
+</Project>
